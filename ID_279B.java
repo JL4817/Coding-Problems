@@ -5,5 +5,6 @@ public class ID_279B {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
         int t = input.nextInt();
+        input.nextLine();
     }
 }
